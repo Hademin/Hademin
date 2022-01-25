@@ -5,6 +5,6 @@
 - 📫 How to reach me .. email ehdeide@gmail.com or Whatsapp 22246800582.
 
 <!---
-Hademin/Hademin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ehdeie/Abedenne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
