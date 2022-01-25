@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hademin
+- 👋 Hi, I’m @ehdeide
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning . JavaScript..
 - 💞️ I’m looking to collaborate on project...
